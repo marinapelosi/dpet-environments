@@ -10,7 +10,7 @@ This project was created to simplify the installation of the DPET API and APP.
 > Each documentation has a way to install and configure each project by itself.
 > But, using DPET ENVIRONMENTS, you will shorten the installation and configuration to a single command.
 
-Yes! A single comment will do for you:
+Yes! A single command will do for you:
 
  - clone the repositories (api+web), 
  - install dependencies, 
