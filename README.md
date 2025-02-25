@@ -39,7 +39,7 @@ Please, follow the instructions to setup your environments and start using the a
 
 Clone and enter into the DPET-ENVIRONMENTS repository
 ```
-clone
+git clone git@github.com:marinapelosi/dpet-environments.git
 ```
 
 ```
@@ -81,3 +81,7 @@ To refresh database configuration
 ```
 make fresh-db
 ```
+
+-----
+
+Thank you
